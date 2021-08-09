@@ -2,7 +2,7 @@
 
 Save colors, create new one and combine them, so they fit perfectly. 
 
-This project was created as a practice of html, css and js. As well I was flustrated to save fancy colors as hex codes.
+This project was created as a practice of html, css and js. As well I was frustrated to save fancy colors as hex codes.
 
 ## Functions 
 
